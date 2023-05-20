@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+li {
+    display: inline-block;
+    margin: 2rem;
+    cursor: pointer;
+}
+.NavLink {
+    text-decoration: none;
+}
+
+.imgLogo {
+    width: 8rem;
+    border-radius: 20px;
+    padding: 10px;
+}
